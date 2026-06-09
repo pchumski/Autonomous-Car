@@ -363,7 +363,7 @@ Training curves and label distributions are in `Yolov5/Jetracer/wskazniki_jakosc
 <div align="center">
 
 *Engineering Thesis — Wrocław University of Science and Technology*  
-**Authors: Paweł Chumski & Konstanty Odważny**  
+**Authors: Paweł Chumski, Jędrzej Szczerbal & Konstanty Odważny**  
 *Last updated: 02.2023*
 
 </div>
